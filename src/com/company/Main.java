@@ -6,5 +6,6 @@ public class Main {
         System.out.println("First commit in develop branch");
         System.out.println("Second commit in develop branch");
         System.out.println("Third commit in develop branch");
+        System.out.println("Fourth commit in develop branch");
     }
 }
