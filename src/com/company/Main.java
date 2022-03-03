@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Second commit in develop branch");
         System.out.println("Third commit in develop branch");
         System.out.println("Fourth commit in develop branch");
+        System.out.println("Severe bug fixed for production: hotfix 0.2");
     }
 }
