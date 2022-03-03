@@ -8,5 +8,6 @@ public class Main {
         System.out.println("Third commit in develop branch");
         System.out.println("Adding feature for future release");
         System.out.println("Second commit in feature branch");
+        System.out.println("Third commit in feature branch");
     }
 }
