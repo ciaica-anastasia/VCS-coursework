@@ -22,5 +22,6 @@ public class Main {
         System.out.println("Fifth commit in major_feature branch");
         System.out.println("Sixth commit in major_feature branch");
         System.out.println("Fourth commit in feature branch");
+        System.out.println("Fifth commit in release branch");
     }
 }
